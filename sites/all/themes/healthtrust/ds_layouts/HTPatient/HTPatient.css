@@ -1,0 +1,53 @@
+/**
+ * @file
+ * Display Suite example layout stylesheet.
+ */
+
+.groupleft {
+}
+
+.groupmiddle {
+}
+
+.groupright {
+}
+
+.groupheader {
+  clear: both;
+}
+
+.groupnotes {
+  clear: both;
+}
+
+.groupfooter {
+  clear: both;
+}
+
+#topblock {
+	  clear: both;
+}
+
+#middleblock {
+	  clear: both;
+}
+
+#bottomblock {
+	  clear: both;
+}
+
+#topblock h4{
+	  padding-top:20px;
+}
+
+#middleblock h4 {
+	  padding-top:20px;
+}
+
+#bottomblock h4 {
+	  padding-top:20px;
+}
+
+#notesblock {
+	  clear: both;
+}

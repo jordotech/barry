@@ -1,0 +1,30 @@
+
+.barney-header {
+}
+
+.barney-left {
+  float: left;
+  width: 33%;
+  background-color:red;
+}
+
+.barney-middle {
+  float: left;
+  width: 33%;
+    background-color:tan;
+}
+.barney-right {
+  float: right;
+  width: 33%;
+    background-color:green;
+}
+
+.barney-footer {
+  clear: both;
+    background-color:yellow;
+}
+
+.barney-header {
+  clear: both;
+    background-color:pink;
+}

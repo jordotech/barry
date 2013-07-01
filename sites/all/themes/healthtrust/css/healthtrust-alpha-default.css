@@ -1,0 +1,205 @@
+
+
+#block-block-1 .field-label,  #block-block-2 .field-label, #block-block-3 .field-label, #block-system-main .field-label
+{
+color:#333333;	
+width:120px;
+}
+
+#block-block-1 .block-title,  #block-block-2 .block-title, #block-block-3 .block-title, #block-system-main .block-title, #block-views-patient-sessions-block .block-title, .view-patient-reports
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#333333;
+	text-transform: uppercase;
+}
+
+
+#block-block-1 .node-title,  #block-block-2 .node-title, #block-block-3 .node-title, #block-system-main .node-title
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+
+#block-block-1 .submitted,  #block-block-2 .submitted, #block-block-3 .submitted, #block-system-main .submitted
+{
+	visibility:hidden;
+}
+
+#block-system-main .field-group-fieldset {
+	width: 24%;
+	float:left;
+	border-color:#E0E0D8;
+}
+
+#block-block-4 .content a, #block-views-patient-sessions-block .view-header a, #block-views-patient-sessions-block .views-field-edit-node a, .view-patient-home-view tbody .views-field-title a{
+text-transform: lowercase;
+display: block;
+float: left;
+text-decoration: none;
+-moz-background-clip: padding;
+-webkit-background-clip: padding;
+background: -moz-linear-gradient(top center, 
+white 0%, 
+#DDD 100%);
+margin: 0 0.5em 0.5em 0;
+vertical-align: middle;
+-webkit-appearance: none;
+-moz-border-radius: 11px;
+-webkit-border-radius: 11px;
+border-radius: 11px;
+background: 
+#DDD url(../images/button.png) repeat-x;
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0, 
+white), color-stop(1, 
+#DDD));
+background: -moz-linear-gradient(top center, 
+white 0%, 
+#DDD 100%);
+border: 1px solid;
+border-color: 
+#DDD 
+#BBB 
+#999;
+cursor: pointer;
+color: 
+#333;
+font: bold 12px/1.2 Arial, sans-serif;
+outline: 0;
+overflow: visible;
+padding: 4px 10px 3px;
+text-shadow: 
+white 0 1px 1px;
+width: auto;
+}
+
+#block-views-patient-sessions-block table td, #block-views-patient-sessions-block table th {
+vertical-align: middle;
+padding: 2px 2px;
+border: 0;
+color: black;
+}
+
+caption {
+	text-align:left;
+	background-color:#F93;
+	padding-left: 10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-weight:bold;
+	font-size:12px;
+}
+
+
+#quicktabs-container-home_page_tabs2, .view-patient-reports, .view-report-patient-denials {
+	font-size:11px;
+	line-height:14px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.views-field-title {
+	width: 120px;
+	font-weight:bold;
+}
+
+.views-field-field-patient-therapist {
+	width: 60px;
+}
+
+.views-field views-field-title {
+	width: 100px;
+}
+
+.views-field-field-referring-doctor-link {
+	width: 60px;
+}
+
+.views-field-field-date-submitted {
+	width: 60px;
+}
+
+.views-field-field-date-preauth-expires {
+	width: 60px;
+}
+
+.views-field-field-num-request {
+	width: 32px;
+}
+
+.views-field-field-num-approved {
+	width: 32px;
+}
+
+.views-field-field-completed-sessions {
+	width: 40px;
+}
+
+.patient_notes_label {
+	width: 400px;+
+}
+
+.views-field-field-referral-type {
+	width: 60px;
+}
+
+#bigbutton a {
+display: block;
+float: left;
+text-decoration: none;
+-moz-background-clip: padding;
+-webkit-background-clip: padding;
+background: -moz-linear-gradient(top center, 
+white 0%, 
+#DDD 100%);
+margin: 0 0.5em 0.5em 0;
+vertical-align: middle;
+-webkit-appearance: none;
+-moz-border-radius: 11px;
+-webkit-border-radius: 11px;
+border-radius: 11px;
+background: 
+#DDD url(../images/button.png) repeat-x;
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0, 
+white), color-stop(1, 
+#DDD));
+background: -moz-linear-gradient(top center, 
+white 0%, 
+#DDD 100%);
+border: 1px solid;
+border-color: 
+#DDD 
+#BBB 
+#999;
+cursor: pointer;
+color: 
+#333;
+font: bold 20px/1.2 Arial, sans-serif;
+outline: 0;
+overflow: visible;
+padding: 20px 42px 22px;
+text-shadow: 
+white 0 1px 1px;
+width: auto;
+float:right;
+}
+
+.node-patient-form fieldset#node_patient_form_group_name {
+	color:red;
+	}
+	
+	.fieldset-legend {
+		color:red;
+	}
+	
+	fieldset {
+		width:20%
+	}	
+	.form-item-field-patient-prefix-und
+ {
+	 color:red;
+ }
+ 
+#block-system-main .node-patient-dates .field-label {
+width:220px;
+}
+

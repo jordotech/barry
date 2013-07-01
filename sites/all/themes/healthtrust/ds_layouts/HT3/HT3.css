@@ -1,0 +1,31 @@
+/**
+ * @file
+ * Display Suite example layout stylesheet.
+ */
+
+.groupleft {
+  width: 33%;
+  float: left;
+}
+
+.groupmiddle {
+  width: 34%;
+  float: left;
+}
+
+.groupright {
+  width: 33%;
+  float: right;
+}
+
+.groupheader {
+  clear: both;
+}
+
+.groupnotes {
+  clear: both;
+}
+
+.groupfooter {
+  clear: both;
+}
