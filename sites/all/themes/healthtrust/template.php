@@ -15,5 +15,7 @@
 
 
 function healthtrust_preprocess_page(&$vars){
-
+	if(arg(1) == 57){
+		drupal_add_js(drupal_get_path('theme', 'healthtrust') . '/js/youtube.js');
+	}
 }

@@ -1132,3 +1132,12 @@ border:1px solid #ccc;
 h2.block-title{
 font-family:Arial;
 }
+.youtube .thumbnail {
+    margin: 2px;
+    width: 100px;
+    border: 1px solid black;
+}
+.yt-descript {
+    height: 100px;
+    display: block;
+}
